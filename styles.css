@@ -1,0 +1,46 @@
+body{
+    background-color: khaki;
+}
+
+.header{
+    margin:0 auto;
+    text-align:center;
+    font-family:sans-serif;
+    height:90px;
+    font-size:59px;
+}
+
+#app{
+    margin:0 auto;
+    width:400px;
+    height:550px;
+    border-radius:6px;
+    border:2px solid black;
+}
+
+#input{
+    background-color:white;
+    width:400px;
+    height:300px;
+    border-radius:6px;
+}
+
+#screen{
+    background-color:black;
+    width:400px;
+    height:200px;
+    color:white;
+    font-size:30px;
+    font-family: sans-serif;
+}
+
+.number{
+    height:70px;
+    width:100px;
+    background-color:#FFFAF0;
+    border:solid black;
+    margin:0;
+    padding:0px 0px 0px 0px;
+    font-size:20px;
+    font-family:sans-serif;
+}
